@@ -1,1 +1,1 @@
-# term-paper-autumn-2024
+# Stuff produced during autumn 2024

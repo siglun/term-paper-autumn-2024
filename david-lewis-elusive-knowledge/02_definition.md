@@ -16,4 +16,4 @@ Subject S knows proposition P iff
 * S’s evidence eliminates every possibility in which not-P - Psst! - except for those possibilities that we are properly ignoring
 * S’s evidence eliminates every possibility in which not-P - Psst! - except for those possibilities that conflict with our proper presuppositions!
 
-[< previous](01_fallibilism-and-scepticism.md)  |[handout ](lewis_iff_handout.pdf)|  [next >](03_uneliminated-possibilities.md)
+[< previous](01_fallibilism-and-scepticism.md)  |[ handout ](lewis_iff_handout.pdf)|  [next >](03_uneliminated-possibilities.md)

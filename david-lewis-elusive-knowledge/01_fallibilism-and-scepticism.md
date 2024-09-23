@@ -24,5 +24,5 @@ just sounds sounds contradictory.
 
 [...] To that end, I propose propose to take the infallibility of knowledge as my starting point? Must infallibilist epistemology end in scepticism? Not quite. Wait and see.
 
-[< previous](README.md) |[handout ](lewis_iff_handout.pdf)| [next >](02_definition.md)
+[< previous](README.md) |[ handout ](lewis_iff_handout.pdf)| [next >](02_definition.md)
 

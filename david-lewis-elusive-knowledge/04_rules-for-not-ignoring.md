@@ -13,4 +13,4 @@
 1. __Rule of Conservatism__
 1. __Rule of Attention__
 
-[< previous](04_rules-for-not-ignoring.md)  [next >](README.md)
+[< previous](03_uneliminated-possibilities.md)  [next >](05_elusiveness.md)

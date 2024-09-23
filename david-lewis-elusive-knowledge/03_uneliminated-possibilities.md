@@ -16,6 +16,9 @@ Rather,
 it is the existence of the experience that conflicts with  _W_ :
  _W_  is a possibility in which the subject is not having experience  _E_ .
 
+## Actuality
+
+There is one possibility that actually obtains (for the subject and at the time in question);  call it actuality. Then a possibility W is uneliminated iff the subject's perceptual experience and memory in W exactly match his perceptual experience and memory in actuality.
 
 [< previous](02_definition.md)  |[ handout ](lewis_iff_handout.pdf)|  [next >](04_rules-for-not-ignoring.md)
 

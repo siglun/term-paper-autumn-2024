@@ -1,7 +1,7 @@
 
-# Notes on David Lewis' "Elusive knowledge"
+## Notes on David Lewis' "Elusive knowledge"
 
-## We know a lot
+# We know a lot
 
 For instance:
 

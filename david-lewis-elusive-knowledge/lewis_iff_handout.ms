@@ -2,7 +2,7 @@
 Om David Lewis artikel
 .LP
 Lewis, David, 1996. Elusive knowledge.
-\fIAustralasian Journal of Philosophy.\fP 74(4) 549 \(en 567.
+\fIAustralasian Journal of Philosophy.\fP 74(4) 549\(en567.
 .SH
 Lewis definierar kunskap genom
 .LP

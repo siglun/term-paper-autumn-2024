@@ -8,7 +8,7 @@ Subject S knows proposition P iff
 * P holds in every possibility left uneliminated by S’s evidence;
   * equivalently, iff S’s evidence eliminates every possibility in which not-P
 
-Variant definitions
+### Variant definitions
 
 Subject S knows proposition P iff
 

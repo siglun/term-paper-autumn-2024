@@ -13,4 +13,4 @@ and we attend to the proper ignoring of possibilities,
 we make knowledge vanish.
 First we we do know, then we do not.
 
-[< previous](04_rules-for-not-ignoring.md)  [next >](README.md)
+[< previous](04_rules-for-not-ignoring.md)  |[handout ](lewis_iff_handout.pdf)|  [next >](README.md)

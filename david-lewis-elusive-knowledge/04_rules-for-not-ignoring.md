@@ -13,4 +13,4 @@
 1. __Rule of Conservatism__
 1. __Rule of Attention__
 
-[< previous](03_uneliminated-possibilities.md)  [next >](05_elusiveness.md)
+[< previous](03_uneliminated-possibilities.md)  |[handout ](lewis_iff_handout.pdf)|  [next >](05_elusiveness.md)

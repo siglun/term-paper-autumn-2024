@@ -12,5 +12,5 @@ For instance:
 
 
 
-[< previous](README.md)  [next >](02_definition.md)
+[< previous](README.md) |[handout ](lewis_iff_handout.pdf)| [next >](02_definition.md)
 

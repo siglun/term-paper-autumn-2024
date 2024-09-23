@@ -17,6 +17,6 @@ it is the existence of the experience that conflicts with  _W_ :
  _W_  is a possibility in which the subject is not having experience  _E_ .
 
 
-[< previous](02_definition.md)  [next >](04_rules-for-not-ignoring.md)
+[< previous](02_definition.md)  |[handout ](lewis_iff_handout.pdf)|  [next >](04_rules-for-not-ignoring.md)
 
 

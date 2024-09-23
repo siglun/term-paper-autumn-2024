@@ -70,7 +70,7 @@ Rule of Reliability
 .br
 a presumptive rule about what
 may be be properly ignored;
-and it is by means of this rule that we capture what is right about causal or reliabilist theories of of knowing.
+and it is by means of this rule that we capture what is right about causal or reliabilist theories of knowing.
 .IP 5
 Rules of Method
 .IP 6

@@ -1,9 +1,9 @@
 
-# Between the rock of fallibilism and the whirlpool of scepticism
+# Notes on David Lewis' "Elusive knowledge"
 
-##  Notes on David Lewis' "Elusive knowledge"
+## We know a lot
 
-We know a lot. For instance:
+For instance:
 
 1. That here's one hand, and here's another
 1. Charles is the current king of the United Kingdom
